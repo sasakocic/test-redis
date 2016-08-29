@@ -1,0 +1,15 @@
+{
+  "name": "itspektar/test-redis",
+  "description": "Simple Redis installation",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Sasa Kocic",
+      "email": "sasa.kocic@gmail.com"
+    }
+  ],
+  "require": {
+    "predis/predis": "^1.1"
+  }
+}
